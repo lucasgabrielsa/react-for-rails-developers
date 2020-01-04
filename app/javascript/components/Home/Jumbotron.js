@@ -41,7 +41,7 @@ const Jumbotron = () => {
         <Section className="home-section--1">
             <div className="container">
                 <div className="row">
-                    <div className="col col-sm-12 cold-md-5">
+                    <div className="col col-sm-12 col-md-5">
                         <div className="pt-4 mt-4">
                             <Header>React for Rails Developers</Header>
                             <Subhead>Supercharge your Ruby on Rails Apps with React</Subhead>
@@ -50,7 +50,7 @@ const Jumbotron = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="col col-sm-12 cold-md-7">
+                    <div className="col col-sm-12 col-md-7">
                         <div className="pt-4 mt-4 text-center">
                             <iframe src="https://www.youtube.com/embed/jNQXAC9IVRw" width="550" height="315" frameBorder="true" allowFullScreen></iframe>
                         </div>
